@@ -1,0 +1,76 @@
+{
+  "company_info": {
+    "name": "Shield Digital Solutions",
+    "tagline": "Securing Your Digital Future, Building Your Success.",
+    "location": "Santa Ana, California, United States",
+    "summary": "Founded in 2018, Shield Digital Solutions provides robust web and software solutions for SMBs, focusing on security, client partnership, innovation, and integrity. Our mission is to empower businesses with secure digital tools for growth. We offer a transparent process and reliable support from our experienced local team.",
+    "contact": {
+      "email": "info@shielddigitalsolutions.com (Example Email)",
+      "website": "www.shielddigitalsolutions.com (Example Website)",
+      "phone": "(714) 555-0101 (Example Phone)",
+      "address": "123 Innovation Drive, Suite 100, Santa Ana, CA 92701 (Example Address)"
+    }
+  },
+  "services_summary": {
+    "list": [
+      {
+        "name": "Redesign Website",
+        "short_description": "Revitalize existing sites with modern UX/UI.",
+        "process": [
+          "In-depth analysis of your current website and goals.",
+          "UX/UI design concepts and revisions based on your feedback.",
+          "Front-end development with a focus on responsiveness and performance.",
+          "Content migration and integration.",
+          "Thorough testing and quality assurance.",
+          "Deployment to your hosting environment."
+        ]
+      },
+      {
+        "name": "Create Website",
+        "short_description": "Build new custom sites (brochure, e-commerce, etc.).",
+        "process": [
+          "Detailed consultation to understand your business needs and target audience.",
+          "Sitemap and wireframe creation for optimal structure and user flow.",
+          "Custom design mockups reflecting your brand identity.",
+          "Full-stack development tailored to your specific requirements (brochure, e-commerce, etc.).",
+          "Payment gateway integration (if applicable).",
+          "Comprehensive testing and launch."
+        ]
+      },
+      {
+        "name": "API Development",
+        "short_description": "Custom APIs for system integration.",
+        "process": [
+          "Requirements gathering and API specification design.",
+          "Secure and scalable API development.",
+          "Thorough API testing and documentation (e.g., Swagger).",
+          "Integration with your existing systems.",
+          "Ongoing maintenance and support."
+        ]
+      },
+      {
+        "name": "Payment Set Up/Gateway",
+        "short_description": "Integrate secure payment processing (Stripe, PayPal, etc.).",
+        "process": [
+          "Consultation on the best payment gateway for your needs (Stripe, PayPal, etc.).",
+          "Secure integration of the chosen payment gateway into your website or application.",
+          "Testing of payment processing workflows.",
+          "Assistance with compliance and security standards."
+        ]
+      },
+      {
+        "name": "Chatbot Services",
+        "short_description": "Implement chatbots for support/lead gen.",
+        "process": [
+          "Define your chatbot goals (customer support, lead generation, etc.).",
+          "Design the chatbot conversation flow and knowledge base.",
+          "Develop and integrate the chatbot into your website or platform.",
+          "Testing and optimization of chatbot performance.",
+          "Ongoing monitoring and updates."
+        ]
+      }
+    ],
+    "pricing_approach": "Transparent, mostly project-based pricing with custom quotes. This is a demo so no actual pricing is provided.",
+    "general_process": "Discovery > Strategy > Design > Development > Testing > Deployment > Support."
+  }
+}
