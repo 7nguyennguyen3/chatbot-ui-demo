@@ -44,8 +44,8 @@ const Tutorial = ({ setOpenTutorial }: TutorialProps) => {
             </li>
             <li>
               <strong>Petalsoft:</strong> A customer support chatbot tailored
-              for "Petalsoft," an example online store selling skincare
-              products. You might find this bot in the popup widget.
+              for &quot;Petalsoft,&quot; an example online store selling
+              skincare products. You might find this bot in the popup widget.
             </li>
           </ul>
           <p className="mb-3 text-sm text-muted-foreground">
@@ -69,7 +69,7 @@ const Tutorial = ({ setOpenTutorial }: TutorialProps) => {
 
           {/* --- ADDED MODEL INFORMATION --- */}
           <p className="mt-4 pt-4 border-t border-border text-center text-xs text-muted-foreground">
-            Powered by Google's{" "}
+            Powered by Google&apos;s{" "}
             <code className="font-mono text-xs bg-muted px-1 py-0.5 rounded">
               gemini-2.0-flash-001
             </code>{" "}
